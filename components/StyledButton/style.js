@@ -15,7 +15,6 @@ const styles = StyleSheet.create({
     fontSize: 12,
     fontWeight: "500",
     textTransform: "uppercase",
-    color: "white",
   },
 });
 
